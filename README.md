@@ -1,3 +1,4 @@
+Hello! I am Matheus Alves, and this is my GitHub profile.
 ## 🙋‍♂️ About Me:
 🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP.<br>
 🔎 Looking for an internship in the field!<br>
