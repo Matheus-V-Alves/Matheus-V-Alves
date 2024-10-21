@@ -1,5 +1,9 @@
-# 💫 About Me:
-🎓 Atualmente estou fazendo Bacharelado em Engenharia de Software na FIAP.<br>🔎 À procura de estágio na área!<br>🔭 Meus interesses são variados. Tenho uma grande paixão por front-end, mas também sou bastante interessado em big data, back-end, segurança cibernética, entre outras áreas.<br>💡 Estou sempre em busca de aprender e explorar novas tecnologias para aprimorar minhas habilidades.<br>📧 Fique à vontade para entrar em contato, seja para colaborar, discutir projetos ou trocar ideias sobre desenvolvimento de software!
+# 🙋‍♂️ About Me:
+🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP.<br>
+🔎 Looking for an internship in the field!<br>
+🔭 My interests are varied. I have a strong passion for front-end development, but I'm also very interested in big data, back-end, cybersecurity, and other areas.<br>
+💡 I am always seeking to learn and explore new technologies to enhance my skills.<br>
+📧 Feel free to get in touch, whether to collaborate, discuss projects, or simply exchange ideas about software development!<br>
 
 
 ## 🌐 Socials:
