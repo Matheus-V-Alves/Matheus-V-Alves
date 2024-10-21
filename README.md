@@ -11,7 +11,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-V-Alves&theme=chartreuse-dark&hide_border=true" width="400"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-V-Alves&theme=chartreuse-dark&hide_border=true" width="400"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"/>
 </div>
 
@@ -23,4 +23,3 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheussouzalv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-alves-8471942b1/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@matheuszlv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MVtheusz7) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
