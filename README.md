@@ -1,4 +1,5 @@
-Hello! I am Matheus Alves, and this is my GitHub profile.
+# Hello! I am Matheus Alves, and this is my GitHub profile.
+
 ## 🙋‍♂️ About Me:
 🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP.<br>
 🔎 Looking for an internship in the field!<br>
@@ -7,9 +8,10 @@ Hello! I am Matheus Alves, and this is my GitHub profile.
 📧 Feel free to get in touch, whether to collaborate, discuss projects, or simply exchange ideas about software development!<br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="400" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false" width="400" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-V-Alves&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+
 
 
 ## 💻 Tech Stack:
