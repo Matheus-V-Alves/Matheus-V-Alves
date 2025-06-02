@@ -1,7 +1,7 @@
 # Hello! I am Matheus Alves, and this is my GitHub profile.
 
 ## 🙋‍♂️ About Me:
-🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP.<br>
+🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP. B2 English level <br>
 🔎 Looking for an internship in the field!<br>
 🔭 My interests are varied. I have a strong passion for front-end development, but I'm also very interested in big data, back-end, cybersecurity, and other areas.<br>
 💡 I am always seeking to learn and explore new technologies to enhance my skills.<br>
