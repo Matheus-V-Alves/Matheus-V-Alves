@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me:
 🎓 I am currently pursuing a Bachelor's degree in Software Engineering at FIAP. B2 English level <br>
-🔎 Looking for an internship in the field!<br>
+💻 work in influency.me!<br>
 🔭 My interests are varied. I have a strong passion for front-end development, but I'm also very interested in big data, back-end, cybersecurity, and other areas.<br>
 💡 I am always seeking to learn and explore new technologies to enhance my skills.<br>
 📧 Feel free to get in touch, whether to collaborate, discuss projects, or simply exchange ideas about software development!<br>
