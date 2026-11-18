@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7FFF00&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Automations+%7C+AI+Agents+%7C+LLMs;C%23+%2F+.NET+%7C+Angular+%7C+n8n;Software+Engineering+%40+FIAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7FFF00&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Automations+%7C+AI+Agents+%7C+LLMs;C%23+%2F+.NET+%7C+Angular+%7C+LLM+Agents;Software+Engineering+%40+FIAP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -94,9 +94,23 @@
 ### Design & Productivity
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## Internship Projects / Projetos do Estágio
+
+Real systems I built or helped build at Influency.me, used by the team and by the public every day.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **InfluencyMe Award 2026 voting system** | Public voting platform ([vote.influency.me](https://vote.influency.me)) with 150 influencers across 15 categories, automated vote counting and a data pipeline. **5M+ votes from 400k+ participants.** | ASP.NET Core · Angular · PostgreSQL · Supabase · n8n · Python · Playwright |
+| **Influency.me XP app** | Official app for Influency.me Experience 2026, the influencer marketing event held at Tokio Marine Hall, São Paulo, for brand and agency marketing leaders and content creators. Shows the stage schedule, speakers and attendees; lets users build a personal agenda with reminders and add talks to the phone's calendar; rate each talk and answer the post-event satisfaction survey. The organizers use it to send push notifications. | Ionic · React Native · TypeScript · C# / .NET · PostgreSQL · Firebase |
+| **AI Dev Squad** | Multi-agent software team running in Claude Code: orchestrator, product manager, UX, architect, .NET back-end, Angular front-end, QA, security and tech writer agents, with mandatory quality gates and traceable handoffs between stages. | Claude Code · Subagents · MCP · Azure DevOps · C# / .NET · Angular |
+| **Campaign report generator** | Turns a campaign's data export into the full client results report, as a PowerPoint deck or an online dashboard: funnel per influencer, EMV, ROI, sentiment and key learnings. | Claude Agent Skills · Python · PowerPoint · HTML |
+| **Brand sentiment analysis** | Collects Instagram comments from campaign posts and analyzes sentiment toward the brand in Brazilian Portuguese, handling irony, slang, memes and emojis. Outputs emotion breakdown, aspect-based sentiment (ABSA) and word clouds for the report. | Claude · Browser automation · Python |
+
+> Source code is private (company property). Happy to walk through any of these in a conversation.
+
 ## Socials / Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-8471942b1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheussouzalv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@matheuszlv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-8471942b1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheussouzalv)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFF00,50:3d7a00,100:0a0f00&height=120&section=footer&animation=twinkling" width="100%"/>
