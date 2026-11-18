@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f00,50:3d7a00,100:7FFF00&height=200&section=header&text=Matheus%20Alves&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Solutions%20Engineer%20%40%20Influency.me&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7FFF00&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Automations+%7C+AI+Agents+%7C+LLMs;C%23+%2F+.NET+%7C+Angular+%7C+n8n;Software+Engineering+%40+FIAP" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="#english">English</a> &nbsp;|&nbsp; <a href="#português">Português</a>
 </p>
 
@@ -88,4 +96,8 @@
 
 ## Socials / Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-8471942b1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheussouzalv).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-8471942b1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheussouzalv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@matheuszlv)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFF00,50:3d7a00,100:0a0f00&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
